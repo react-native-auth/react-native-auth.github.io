@@ -12,8 +12,8 @@ Explore our [repositories](https://github.com/orgs/react-native-auth/repositorie
 
 As this application is designed to demonstrate zero data collection, please review our legal documents for more details:
 
-- [Privacy Policy](./terms.md)
-- [Terms of Service](./policy.md)
+- [Privacy Policy](./policy.md)
+- [Terms of Service](./terms.md)
 
 ---
 
